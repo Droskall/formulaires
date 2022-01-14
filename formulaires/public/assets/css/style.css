@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f6f6f6;
+    color: #444444;
+}
+
+body > div {
+    padding: 2rem;
+}
+
+p {
+    margin: 10px;
+}
+
+input, label {
+    display: block;
+    padding: 10px;
+}
+
+input {
+    margin-bottom: 1rem;
+}
+
+nav {
+    background: #8d8d8d;
+    color: #f6f6f6;
+    font-weight: bold;
+    padding: 15px;
+}
+
+nav * {
+    color: #f6f6f6;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+nav ul > li {
+    margin-right: 15px;
+}
+
+#register {
+    display: none;
+}
