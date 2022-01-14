@@ -2,7 +2,7 @@
 
 <div id="login">
     <h1>Connectez vous</h1>
-    <form action="/formulaires/forms/login-form.php" method="post">
+    <form action="/forms/login-form.php" method="post">
         <div>
             <label for="id-username">Username</label>
             <input type="text" name="username" id="id-username">
@@ -18,7 +18,7 @@
 </div>
 
 <div id="register">
-    <form action="/formulaires/forms/register-form.php" method="post">
+    <form action="/forms/register-form.php" method="post">
         <div>
             <label for="id-username">Username</label>
             <input type="text" name="username" id="id-username">

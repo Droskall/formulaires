@@ -1,7 +1,7 @@
 
 <div>
     <h1>Mon formulaire de contact</h1>
-    <form action="/formulaires/forms/contact-form.php" method="post">
+    <form action="/forms/contact-form.php" method="post">
         <div>
             <label for="id-username">Username</label>
             <input type="text" name="username" id="id-username">

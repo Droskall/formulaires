@@ -18,7 +18,7 @@ if(isset($_POST['submit'])) {
         </tr>
     </table>
 
-    <a href="/formulaires/contact.php" style="
+    <a href="/contact.php" style="
         background: #c9c9c9;
         border-radius: 8px;
         padding: 5px;
